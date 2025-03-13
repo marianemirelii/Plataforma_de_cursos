@@ -1,5 +1,12 @@
-{
-    "usuarios": [],
-    "cursosAdquiridos": {}
+[
+  {
+    "nome": "mariane",
+    "email": "marianemireli2006@gmail.com",
+    "senha": "1234"
+  },
+  {
+    "nome": "wender",
+    "email": "wendersondhomini125@gmail.com",
+    "senha": "54321"
   }
-  
+]
